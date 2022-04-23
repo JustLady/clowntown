@@ -90,7 +90,7 @@
   "compose_form.hashtag_warning": "यह टूट् किसी भी हैशटैग के तहत सूचीबद्ध नहीं होगा क्योंकि यह अनलिस्टेड है। हैशटैग द्वारा केवल सार्वजनिक टूट्स खोजे जा सकते हैं।",
   "compose_form.lock_disclaimer": "आपका खाता {locked} नहीं है। आपको केवल फॉलोवर्स को दिखाई दिए जाने वाले पोस्ट देखने के लिए कोई भी फॉलो कर सकता है।",
   "compose_form.lock_disclaimer.lock": "लॉक्ड",
-  "compose_form.placeholder": "What is on your mind?",
+  "compose_form.placeholder": "gently to honk",
   "compose_form.poll.add_option": "विकल्प जोड़े",
   "compose_form.poll.duration": "चुनाव की अवधि",
   "compose_form.poll.option_placeholder": "कुल विकल्प {number}",

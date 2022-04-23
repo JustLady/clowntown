@@ -1050,11 +1050,11 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "What is on your mind?",
+        "defaultMessage": "gently to honk",
         "id": "compose_form.placeholder"
       },
       {
-        "defaultMessage": "Write your warning here",
+        "defaultMessage": "do not forget",
         "id": "compose_form.spoiler_placeholder"
       },
       {
