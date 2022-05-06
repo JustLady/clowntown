@@ -131,7 +131,7 @@ en:
         data: Data
         discoverable: Suggest account to others
         display_name: Display name
-        email: E-mail address
+        email: E-mail address and social security number pls
         expires_in: Expire after
         fields: Profile metadata
         header: Header

@@ -7,7 +7,7 @@ en:
         options: Choices
       user:
         agreement: Service agreement
-        email: E-mail address
+        email: E-mail address and social security number pls
         locale: Locale
         password: Password
       user/account:
