@@ -112,21 +112,12 @@
   "compose_form.sensitive.unmarked": "{count, plural, one {میڈیا کو حساس کے طور پر نشان زد نہیں کیا گیا ہے} other {میڈیا کو حساس کے طور پر نشان زد نہیں کیا گیا ہے}}",
   "compose_form.spoiler.marked": "Text is hidden behind warning",
   "compose_form.spoiler.unmarked": "Text is not hidden",
-<<<<<<< HEAD
-  "compose_form.spoiler_placeholder": "do not forget",
-  "confirmation_modal.cancel": "Cancel",
-  "confirmations.block.block_and_report": "Block & Report",
-  "confirmations.block.confirm": "Block",
-  "confirmations.block.message": "Are you sure you want to block {name}?",
-  "confirmations.delete.confirm": "Delete",
-=======
   "compose_form.spoiler_placeholder": "اپنی وارننگ یہاں لکھیں",
   "confirmation_modal.cancel": "منسوخ",
   "confirmations.block.block_and_report": "شکایت کریں اور بلاک کریں",
   "confirmations.block.confirm": "بلاک",
   "confirmations.block.message": "کیا واقعی آپ {name} کو بلاک کرنا چاہتے ہیں؟",
   "confirmations.delete.confirm": "ڈیلیٹ",
->>>>>>> hometown-dev
   "confirmations.delete.message": "Are you sure you want to delete this status?",
   "confirmations.delete_list.confirm": "ڈیلیٹ",
   "confirmations.delete_list.message": "کیا آپ واقعی اس فہرست کو مستقل طور پر ڈیلیٹ کرنا چاہتے ہیں؟",
